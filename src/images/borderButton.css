@@ -1,0 +1,6 @@
+.root { /* modify the selector according to your needs */
+    -fx-border-style: none solid solid solid;
+    -fx-border-width: 0 0 2 0;
+    -fx-border-color: #a0a2ab;
+    -fx-background-color:  #272e3a;
+}

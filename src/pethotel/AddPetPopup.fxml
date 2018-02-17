@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXTextField?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" prefHeight="600.0" prefWidth="800.0" style="-fx-background-color: #494545;" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="pethotel.AddPetPopupController">
+   <children>
+      <Label layoutX="27.0" layoutY="107.0" text="Customer's name : " textFill="WHITE">
+         <font>
+            <Font name="Consolas" size="20.0" />
+         </font>
+      </Label>
+      <Label fx:id="customerName" layoutX="241.0" layoutY="107.0" prefHeight="26.0" prefWidth="191.0" textFill="#780000">
+         <font>
+            <Font name="Consolas" size="20.0" />
+         </font>
+      </Label>
+      <Label layoutX="27.0" layoutY="181.0" text="Pet's name :" textFill="WHITE">
+         <font>
+            <Font name="Consolas" size="20.0" />
+         </font>
+      </Label>
+      <Label layoutX="27.0" layoutY="234.0" text="Pet's age :" textFill="WHITE">
+         <font>
+            <Font name="Consolas" size="20.0" />
+         </font>
+      </Label>
+      <Label layoutX="27.0" layoutY="287.0" text="Type :" textFill="WHITE">
+         <font>
+            <Font name="Consolas" size="20.0" />
+         </font>
+      </Label>
+      <Label layoutX="27.0" layoutY="343.0" text="Extra :" textFill="WHITE">
+         <font>
+            <Font name="Consolas" size="20.0" />
+         </font>
+      </Label>
+      <ComboBox fx:id="type" layoutX="109.0" layoutY="288.0" prefWidth="150.0" />
+      <JFXTextField fx:id="petName" layoutX="174.0" layoutY="170.0" style="-fx-text-fill: #780000;" unFocusColor="WHITE">
+         <font>
+            <Font name="Consolas" size="20.0" />
+         </font>
+      </JFXTextField>
+      <JFXTextField fx:id="petAge" layoutX="156.0" layoutY="223.0" style="-fx-text-fill: #780000;" unFocusColor="WHITE">
+         <font>
+            <Font name="Consolas" size="20.0" />
+         </font>
+      </JFXTextField>
+      <JFXTextField fx:id="extra" layoutX="121.0" layoutY="332.0" style="-fx-text-fill: #780000;" unFocusColor="WHITE">
+         <font>
+            <Font name="Consolas" size="20.0" />
+         </font>
+      </JFXTextField>
+      <JFXButton fx:id="back" layoutX="217.0" layoutY="478.0" onAction="#back" prefHeight="48.0" prefWidth="150.0" style="-fx-background-color: #323232;" text="back" textFill="WHITE">
+         <font>
+            <Font name="Agency FB" size="33.0" />
+         </font>
+      </JFXButton>
+      <JFXButton fx:id="confirmButton" layoutX="442.0" layoutY="478.0" onAction="#addPet" prefHeight="48.0" prefWidth="150.0" style="-fx-background-color: #323232;" text="Confirm" textFill="WHITE">
+         <font>
+            <Font name="Agency FB" size="33.0" />
+         </font>
+      </JFXButton>
+      <ImageView fitHeight="271.0" fitWidth="237.0" layoutX="474.0" layoutY="129.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../images/2000px-Emojione_1F436.svg.png" />
+         </image>
+      </ImageView>
+      <JFXButton layoutX="19.0" layoutY="21.0" prefHeight="53.0" prefWidth="762.0" style="-fx-background-color: #FFFFFF;" text="Add Pet" textFill="#d30707">
+         <font>
+            <Font name="Agency FB" size="29.0" />
+         </font>
+      </JFXButton>
+   </children>
+</AnchorPane>

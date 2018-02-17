@@ -1,0 +1,540 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-12-10 02:05:23 #1 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' has been recovered (tr. 1-6)
+
+[2017-12-10 02:05:23 #2 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is opened by 2444@Corerid
+
+[2017-12-10 02:05:23 #3 store] 
+Configuration path: D:\3D\OOAD\PetHotelV2\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-12-10 02:05:41 #4 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is closed by 2444@Corerid
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-12-10 02:11:53 #1 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is opened by 6276@Corerid
+
+[2017-12-10 02:11:53 #2 store] 
+Configuration path: D:\3D\OOAD\PetHotelV2\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-12-10 02:11:53 #3 type] 
+Type Customer.Customer is not enhanced.
+
+[2017-12-10 02:11:53 #4 type] 
+Type Pet.Pet is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-12-10 02:16:19 #1 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is opened by 2064@Corerid
+
+[2017-12-10 02:16:19 #2 store] 
+Configuration path: D:\3D\OOAD\PetHotelV2\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-12-10 02:16:19 #3 type] 
+Type Customer.Customer is not enhanced.
+
+[2017-12-10 02:16:19 #4 type] 
+Type Pet.Pet is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-12-10 02:16:50 #1 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is opened by 14328@Corerid
+
+[2017-12-10 02:16:50 #2 store] 
+Configuration path: D:\3D\OOAD\PetHotelV2\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-12-10 02:16:56 #3 type.registry] 
+New type com.objectdb.o.LMT
+
+[2017-12-10 02:16:56 #4 type.registry] 
+New type com.objectdb.o.VAL
+
+[2017-12-10 02:16:56 #5 type.registry] 
+New type com.objectdb.o.RFV
+
+[2017-12-10 02:17:14 #6 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is closed by 14328@Corerid
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-12-10 02:17:55 #1 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' has been recovered (tr. 10-10)
+
+[2017-12-10 02:17:55 #2 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is opened by 12020@Corerid
+
+[2017-12-10 02:17:55 #3 store] 
+Configuration path: D:\3D\OOAD\PetHotelV2\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-12-10 02:18:15 #4 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is closed by 12020@Corerid
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-12-10 02:18:19 #1 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is opened by 12528@Corerid
+
+[2017-12-10 02:18:19 #2 store] 
+Configuration path: D:\3D\OOAD\PetHotelV2\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-12-10 02:18:25 #3 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is closed by 12528@Corerid
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-12-10 02:21:14 #1 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' has been recovered (tr. 12-13)
+
+[2017-12-10 02:21:14 #2 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is opened by 13828@Corerid
+
+[2017-12-10 02:21:14 #3 store] 
+Configuration path: D:\3D\OOAD\PetHotelV2\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-12-10 02:24:36 #4 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is closed by 13828@Corerid
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-12-10 02:32:21 #1 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' has been recovered (tr. 14-14)
+
+[2017-12-10 02:32:21 #2 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is opened by 4452@Corerid
+
+[2017-12-10 02:32:21 #3 store] 
+Configuration path: D:\3D\OOAD\PetHotelV2\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-12-10 02:32:37 #4 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is closed by 4452@Corerid
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-12-10 02:33:27 #1 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' has been recovered (tr. 4-6)
+
+[2017-12-10 02:33:27 #2 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is opened by 7776@Corerid
+
+[2017-12-10 02:33:27 #3 store] 
+Configuration path: D:\3D\OOAD\PetHotelV2\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-12-10 02:35:43 #4 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is closed by 7776@Corerid
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-12-10 02:36:39 #1 explorer] 
+[ObjectDB 2.7.2_05] javax.persistence.PersistenceException
+Attempt to open a database file 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' that is currently in use by another process (error 141)
+	at com.objectdb.Explorer$1.run(Explorer.java:57)
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+Caused by: com.objectdb.o.UserException: Attempt to open a database file 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' that is currently in use by another process
+	at com.objectdb.o.MSG.d(MSG.java:62)
+	at com.objectdb.o.LFL.F(LFL.java:929)
+	at com.objectdb.o.LFL.C(LFL.java:886)
+	at com.objectdb.o.LFL.C(LFL.java:796)
+	at com.objectdb.o.DFL.<init>(DFL.java:240)
+	at com.objectdb.o.DocManager.<init>(DocManager.java:25)
+	at com.objectdb.o.MST.<init>(MST.java:125)
+	at com.objectdb.o.MST.aO(MST.java:107)
+	at com.objectdb.o.MSF.Vi(MSF.java:188)
+	at com.objectdb.o.OMF.an(OMF.java:782)
+	at com.objectdb.jpa.EMF.an(EMF.java:131)
+	at com.objectdb.o.OMF.am(OMF.java:693)
+	at com.objectdb.jpa.EMF.createEntityManager(EMF.java:150)
+	... 17 more
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-12-10 02:36:44 #1 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' has been recovered (tr. 7-7)
+
+[2017-12-10 02:36:44 #2 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is opened by 2584@Corerid
+
+[2017-12-10 02:36:44 #3 store] 
+Configuration path: D:\3D\OOAD\PetHotelV2\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-12-10 02:43:30 #4 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is closed by 2584@Corerid
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-12-10 02:43:59 #1 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' has been recovered (tr. 8-9)
+
+[2017-12-10 02:43:59 #2 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is opened by 3560@Corerid
+
+[2017-12-10 02:43:59 #3 store] 
+Configuration path: D:\3D\OOAD\PetHotelV2\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-12-10 02:44:18 #4 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is closed by 3560@Corerid
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-12-10 02:47:14 #1 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' has been recovered (tr. 10-11)
+
+[2017-12-10 02:47:14 #2 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is opened by 2412@Corerid
+
+[2017-12-10 02:47:14 #3 store] 
+Configuration path: D:\3D\OOAD\PetHotelV2\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-12-10 02:47:26 #4 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is closed by 2412@Corerid
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-12-10 02:50:56 #1 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Customer.odb' has been recovered (tr. 9-9)
+
+[2017-12-10 02:50:57 #2 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Customer.odb' is opened by 3176@Corerid
+
+[2017-12-10 02:50:57 #3 store] 
+Configuration path: D:\3D\OOAD\PetHotelV2\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-12-10 02:51:09 #4 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Customer.odb' is closed by 3176@Corerid
+
+[2017-12-10 02:51:09 #5 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is opened by 3176@Corerid
+
+[2017-12-10 02:51:09 #6 store] 
+Configuration path: D:\3D\OOAD\PetHotelV2\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-12-10 02:51:15 #7 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is closed by 3176@Corerid
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-12-10 02:51:47 #1 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is opened by 6272@Corerid
+
+[2017-12-10 02:51:47 #2 store] 
+Configuration path: D:\3D\OOAD\PetHotelV2\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-12-10 02:51:52 #3 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is closed by 6272@Corerid
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-12-10 03:21:10 #1 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Customer.odb' is opened by 6808@Corerid
+
+[2017-12-10 03:21:11 #2 store] 
+Configuration path: D:\3D\OOAD\PetHotelV2\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-12-10 03:21:32 #3 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Customer.odb' is closed by 6808@Corerid
+
+[2017-12-10 03:21:33 #4 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' has been recovered (tr. 12-13)
+
+[2017-12-10 03:21:33 #5 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is opened by 6808@Corerid
+
+[2017-12-10 03:21:33 #6 store] 
+Configuration path: D:\3D\OOAD\PetHotelV2\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-12-10 03:21:42 #7 type.registry] 
+New type com.objectdb.o.LMT
+
+[2017-12-10 03:21:42 #8 type.registry] 
+New type com.objectdb.o.VAL
+
+[2017-12-10 03:21:42 #9 type.registry] 
+New type com.objectdb.o.RFV
+
+[2017-12-10 03:21:55 #10 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is closed by 6808@Corerid
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-12-10 03:22:41 #1 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' has been recovered (tr. 15-16)
+
+[2017-12-10 03:22:41 #2 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is opened by 11184@Corerid
+
+[2017-12-10 03:22:41 #3 store] 
+Configuration path: D:\3D\OOAD\PetHotelV2\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-12-10 03:23:12 #4 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is closed by 11184@Corerid
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-12-10 03:23:42 #1 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' has been recovered (tr. 17-17)
+
+[2017-12-10 03:23:42 #2 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is opened by 13264@Corerid
+
+[2017-12-10 03:23:42 #3 store] 
+Configuration path: D:\3D\OOAD\PetHotelV2\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-12-10 03:24:05 #4 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is closed by 13264@Corerid
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-12-10 03:29:46 #1 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is opened by 4460@Corerid
+
+[2017-12-10 03:29:46 #2 store] 
+Configuration path: D:\3D\OOAD\PetHotelV2\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-12-10 03:30:02 #3 type.registry] 
+New type java.lang.Object[]
+
+[2017-12-10 03:30:17 #4 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is closed by 4460@Corerid
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-12-10 03:53:08 #1 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is opened by 7416@Corerid
+
+[2017-12-10 03:53:08 #2 store] 
+Configuration path: D:\3D\OOAD\PetHotelV2\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-12-10 03:53:15 #3 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is closed by 7416@Corerid
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-12-10 03:58:11 #1 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is opened by 8644@Corerid
+
+[2017-12-10 03:58:11 #2 store] 
+Configuration path: D:\3D\OOAD\PetHotelV2\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-12-10 03:58:16 #3 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is closed by 8644@Corerid
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-12-10 04:09:23 #1 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is opened by 12264@Corerid
+
+[2017-12-10 04:09:23 #2 store] 
+Configuration path: D:\3D\OOAD\PetHotelV2\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-12-10 04:09:46 #3 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is closed by 12264@Corerid
+
+[2017-12-10 04:09:46 #4 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\CustomerRoomPet.odb' is opened by 12264@Corerid
+
+[2017-12-10 04:09:46 #5 store] 
+Configuration path: D:\3D\OOAD\PetHotelV2\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-12-10 04:10:19 #6 explorer] 
+com.objectdb.o.UserException: Failed to create a new directory 'C:\Users'
+	at com.objectdb.o.MSG.d(MSG.java:62)
+	at com.objectdb.o.LFL.i(LFL.java:454)
+	at com.objectdb.o.LFL.j(LFL.java:640)
+	at com.objectdb.o.FLM.j(FLM.java:194)
+	at com.objectdb.o.FTR.valueForPathChanged(FTR.java:645)
+	at javax.swing.plaf.basic.BasicTreeUI.completeEditing(Unknown Source)
+	at javax.swing.plaf.basic.BasicTreeUI$Handler.editingStopped(Unknown Source)
+	at javax.swing.AbstractCellEditor.fireEditingStopped(Unknown Source)
+	at javax.swing.DefaultCellEditor$EditorDelegate.stopCellEditing(Unknown Source)
+	at javax.swing.DefaultCellEditor.stopCellEditing(Unknown Source)
+	at javax.swing.tree.DefaultTreeCellEditor.stopCellEditing(Unknown Source)
+	at javax.swing.plaf.basic.BasicTreeUI.stopEditing(Unknown Source)
+	at javax.swing.plaf.basic.BasicTreeUI$Handler.mousePressed(Unknown Source)
+	at java.awt.AWTEventMulticaster.mousePressed(Unknown Source)
+	at java.awt.Component.processMouseEvent(Unknown Source)
+	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+	at java.awt.Component.processEvent(Unknown Source)
+	at java.awt.Container.processEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.WaitDispatchSupport$2.run(Unknown Source)
+	at java.awt.WaitDispatchSupport$4.run(Unknown Source)
+	at java.awt.WaitDispatchSupport$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.awt.WaitDispatchSupport.enter(Unknown Source)
+	at java.awt.Dialog.show(Unknown Source)
+	at java.awt.Component.show(Unknown Source)
+	at java.awt.Component.setVisible(Unknown Source)
+	at java.awt.Window.setVisible(Unknown Source)
+	at java.awt.Dialog.setVisible(Unknown Source)
+	at com.objectdb.o.RTR.d(RTR.java:193)
+	at com.objectdb.o.RTR.VR(RTR.java:81)
+	at com.objectdb.o.CMD.actionPerformed(CMD.java:470)
+	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+	at javax.swing.AbstractButton.doClick(Unknown Source)
+	at javax.swing.plaf.basic.BasicMenuItemUI.doClick(Unknown Source)
+	at javax.swing.plaf.basic.BasicMenuItemUI$Handler.mouseReleased(Unknown Source)
+	at java.awt.Component.processMouseEvent(Unknown Source)
+	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+	at java.awt.Component.processEvent(Unknown Source)
+	at java.awt.Container.processEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+
+[2017-12-10 04:10:32 #7 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\CustomerRoomPet.odb' is closed by 12264@Corerid
+
+[2017-12-10 04:10:32 #8 store] 
+Database 'C:\Users\Corerid\Documents\GitHub\SanctuaryOOAD\PetHotel\$dist\db\CustomerRoomPet.odb' is opened by 12264@Corerid
+
+[2017-12-10 04:10:32 #9 store] 
+Configuration path: D:\3D\OOAD\PetHotelV2\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-12-10 04:10:53 #10 store] 
+Database 'C:\Users\Corerid\Documents\GitHub\SanctuaryOOAD\PetHotel\$dist\db\CustomerRoomPet.odb' is closed by 12264@Corerid
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-12-10 14:14:20 #1 explorer] 
+[ObjectDB 2.7.2_05] javax.persistence.PersistenceException
+Attempt to open a database file 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Staff.odb' that is currently in use by another process (error 141)
+	at com.objectdb.Explorer$1.run(Explorer.java:57)
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+Caused by: com.objectdb.o.UserException: Attempt to open a database file 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Staff.odb' that is currently in use by another process
+	at com.objectdb.o.MSG.d(MSG.java:62)
+	at com.objectdb.o.LFL.F(LFL.java:929)
+	at com.objectdb.o.LFL.C(LFL.java:886)
+	at com.objectdb.o.LFL.C(LFL.java:796)
+	at com.objectdb.o.DFL.<init>(DFL.java:240)
+	at com.objectdb.o.DocManager.<init>(DocManager.java:25)
+	at com.objectdb.o.MST.<init>(MST.java:125)
+	at com.objectdb.o.MST.aO(MST.java:107)
+	at com.objectdb.o.MSF.Vi(MSF.java:188)
+	at com.objectdb.o.OMF.an(OMF.java:782)
+	at com.objectdb.jpa.EMF.an(EMF.java:131)
+	at com.objectdb.o.OMF.am(OMF.java:693)
+	at com.objectdb.jpa.EMF.createEntityManager(EMF.java:150)
+	... 17 more
+
+[2017-12-10 14:14:33 #2 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is opened by 7164@Corerid
+
+[2017-12-10 14:14:33 #3 store] 
+Configuration path: D:\3D\OOAD\PetHotelV2\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-12-10 14:23:42 #4 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is closed by 7164@Corerid
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-12-10 16:59:11 #1 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is opened by 564@Corerid
+
+[2017-12-10 16:59:11 #2 store] 
+Configuration path: D:\3D\OOAD\PetHotelV2\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-12-10 17:01:35 #3 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is closed by 564@Corerid
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-12-10 17:01:41 #1 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is opened by 9452@Corerid
+
+[2017-12-10 17:01:41 #2 store] 
+Configuration path: D:\3D\OOAD\PetHotelV2\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-12-10 17:01:50 #3 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is closed by 9452@Corerid
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-12-10 17:21:17 #1 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is opened by 11652@Corerid
+
+[2017-12-10 17:21:17 #2 store] 
+Configuration path: D:\3D\OOAD\PetHotelV2\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-12-10 17:21:26 #3 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is closed by 11652@Corerid
+

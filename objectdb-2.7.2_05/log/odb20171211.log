@@ -1,0 +1,355 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-12-11 02:56:57 #1 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is opened by 11768@Corerid
+
+[2017-12-11 02:56:57 #2 store] 
+Configuration path: D:\3D\OOAD\PetHotelV2\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-12-11 02:56:57 #3 type] 
+Type Customer.Customer is not enhanced.
+
+[2017-12-11 02:56:57 #4 type] 
+Type Pet.Pet is not enhanced.
+
+[2017-12-11 02:56:57 #5 type] 
+Type Customer.Customer_Gold is not enhanced.
+
+[2017-12-11 02:56:57 #6 type] 
+Type Customer.Customer_Platinum is not enhanced.
+
+[2017-12-11 02:56:57 #7 type] 
+Type Pet.Rabbit is not enhanced.
+
+[2017-12-11 02:56:57 #8 type] 
+Type Pet.Dog is not enhanced.
+
+[2017-12-11 02:56:57 #9 type] 
+Type Pet.Cat is not enhanced.
+
+[2017-12-11 02:56:57 #10 type] 
+Type Room.Room is not enhanced.
+
+[2017-12-11 02:56:57 #11 type] 
+Type Room.Standard_Room is not enhanced.
+
+[2017-12-11 02:56:57 #12 type] 
+Type Room.Superior_Room is not enhanced.
+
+[2017-12-11 02:56:57 #13 type.registry] 
+New type Room.Suite_Room
+
+[2017-12-11 02:56:57 #14 type] 
+Type Room.Suite_Room is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-12-11 02:58:32 #1 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is opened by 8476@Corerid
+
+[2017-12-11 02:58:32 #2 store] 
+Configuration path: D:\3D\OOAD\PetHotelV2\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-12-11 02:58:32 #3 type] 
+Type Customer.Customer is not enhanced.
+
+[2017-12-11 02:58:32 #4 type] 
+Type Pet.Pet is not enhanced.
+
+[2017-12-11 02:58:32 #5 type] 
+Type Customer.Customer_Gold is not enhanced.
+
+[2017-12-11 02:58:32 #6 type] 
+Type Customer.Customer_Platinum is not enhanced.
+
+[2017-12-11 02:58:32 #7 type] 
+Type Pet.Rabbit is not enhanced.
+
+[2017-12-11 02:58:32 #8 type] 
+Type Pet.Dog is not enhanced.
+
+[2017-12-11 02:58:32 #9 type] 
+Type Pet.Cat is not enhanced.
+
+[2017-12-11 02:58:32 #10 type] 
+Type Room.Room is not enhanced.
+
+[2017-12-11 02:58:32 #11 type] 
+Type Room.Standard_Room is not enhanced.
+
+[2017-12-11 02:58:32 #12 type] 
+Type Room.Superior_Room is not enhanced.
+
+[2017-12-11 02:58:32 #13 type.registry] 
+New type Room.Suite_Room
+
+[2017-12-11 02:58:32 #14 type] 
+Type Room.Suite_Room is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-12-11 03:03:41 #1 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' has been recovered (tr. 38-38)
+
+[2017-12-11 03:03:41 #2 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is opened by 10044@Corerid
+
+[2017-12-11 03:03:41 #3 store] 
+Configuration path: D:\3D\OOAD\PetHotelV2\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-12-11 03:04:05 #4 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is closed by 10044@Corerid
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-12-11 03:04:57 #1 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' has been recovered (tr. 65-65)
+
+[2017-12-11 03:04:57 #2 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is opened by 10464@Corerid
+
+[2017-12-11 03:04:57 #3 store] 
+Configuration path: D:\3D\OOAD\PetHotelV2\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-12-11 03:05:48 #4 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is closed by 10464@Corerid
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-12-11 03:05:54 #1 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' has been recovered (tr. 66-66)
+
+[2017-12-11 03:05:54 #2 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is opened by 13740@Corerid
+
+[2017-12-11 03:05:54 #3 store] 
+Configuration path: D:\3D\OOAD\PetHotelV2\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-12-11 03:06:25 #4 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is closed by 13740@Corerid
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-12-11 03:06:34 #1 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is opened by 12544@Corerid
+
+[2017-12-11 03:06:34 #2 store] 
+Configuration path: D:\3D\OOAD\PetHotelV2\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-12-11 03:06:39 #3 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is closed by 12544@Corerid
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-12-11 03:08:11 #1 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' has been recovered (tr. 87-87)
+
+[2017-12-11 03:08:11 #2 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is opened by 14232@Corerid
+
+[2017-12-11 03:08:11 #3 store] 
+Configuration path: D:\3D\OOAD\PetHotelV2\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-12-11 03:08:15 #4 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is closed by 14232@Corerid
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-12-11 03:08:45 #1 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' has been recovered (tr. 88-88)
+
+[2017-12-11 03:08:45 #2 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is opened by 5892@Corerid
+
+[2017-12-11 03:08:45 #3 store] 
+Configuration path: D:\3D\OOAD\PetHotelV2\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-12-11 03:08:54 #4 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is closed by 5892@Corerid
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-12-11 03:10:18 #1 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is opened by 13992@Corerid
+
+[2017-12-11 03:10:18 #2 store] 
+Configuration path: D:\3D\OOAD\PetHotelV2\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-12-11 03:10:18 #3 type] 
+Type Customer.Customer is not enhanced.
+
+[2017-12-11 03:10:18 #4 type] 
+Type Pet.Pet is not enhanced.
+
+[2017-12-11 03:10:18 #5 type] 
+Type Customer.Customer_Gold is not enhanced.
+
+[2017-12-11 03:10:18 #6 type] 
+Type Customer.Customer_Platinum is not enhanced.
+
+[2017-12-11 03:10:18 #7 type] 
+Type Pet.Rabbit is not enhanced.
+
+[2017-12-11 03:10:18 #8 type] 
+Type Pet.Dog is not enhanced.
+
+[2017-12-11 03:10:18 #9 type] 
+Type Pet.Cat is not enhanced.
+
+[2017-12-11 03:10:18 #10 type] 
+Type Room.Room is not enhanced.
+
+[2017-12-11 03:10:18 #11 type] 
+Type Room.Standard_Room is not enhanced.
+
+[2017-12-11 03:10:18 #12 type] 
+Type Room.Superior_Room is not enhanced.
+
+[2017-12-11 03:10:18 #13 type.registry] 
+New type Room.Suite_Room
+
+[2017-12-11 03:10:18 #14 type] 
+Type Room.Suite_Room is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-12-11 03:10:46 #1 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is opened by 7564@Corerid
+
+[2017-12-11 03:10:46 #2 store] 
+Configuration path: D:\3D\OOAD\PetHotelV2\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-12-11 03:10:51 #3 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is closed by 7564@Corerid
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-12-11 03:14:59 #1 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is opened by 15272@Corerid
+
+[2017-12-11 03:14:59 #2 store] 
+Configuration path: D:\3D\OOAD\PetHotelV2\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-12-11 03:15:53 #3 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is closed by 15272@Corerid
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-12-11 03:15:56 #1 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is opened by 2692@Corerid
+
+[2017-12-11 03:15:56 #2 store] 
+Configuration path: D:\3D\OOAD\PetHotelV2\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-12-11 03:16:02 #3 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is closed by 2692@Corerid
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-12-11 03:16:21 #1 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is opened by 7468@Corerid
+
+[2017-12-11 03:16:21 #2 store] 
+Configuration path: D:\3D\OOAD\PetHotelV2\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-12-11 03:16:39 #3 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is closed by 7468@Corerid
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-12-11 03:16:44 #1 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' has been recovered (tr. 140-140)
+
+[2017-12-11 03:16:44 #2 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is opened by 9156@Corerid
+
+[2017-12-11 03:16:44 #3 store] 
+Configuration path: D:\3D\OOAD\PetHotelV2\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-12-11 03:16:57 #4 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is closed by 9156@Corerid
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-12-11 03:21:15 #1 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is opened by 14612@Corerid
+
+[2017-12-11 03:21:15 #2 store] 
+Configuration path: D:\3D\OOAD\PetHotelV2\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-12-11 03:21:38 #3 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is closed by 14612@Corerid
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-12-11 03:26:22 #1 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\RoomDB.odb' has been recovered (tr. 1-7)
+
+[2017-12-11 03:26:22 #2 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\RoomDB.odb' is opened by 15332@Corerid
+
+[2017-12-11 03:26:22 #3 store] 
+Configuration path: D:\3D\OOAD\PetHotelV2\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-12-11 03:30:37 #4 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\RoomDB.odb' is closed by 15332@Corerid
+
+[2017-12-11 03:30:37 #5 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is opened by 15332@Corerid
+
+[2017-12-11 03:30:37 #6 store] 
+Configuration path: D:\3D\OOAD\PetHotelV2\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-12-11 03:31:21 #7 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\Database.odb' is closed by 15332@Corerid
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-12-11 04:20:07 #1 store] 
+Database 'D:\3D\OOAD\PetHotelV2\PetHotel\$dist\db\RoomDB.odb' is opened by 4544@Corerid
+
+[2017-12-11 04:20:07 #2 store] 
+Configuration path: D:\3D\OOAD\PetHotelV2\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-12-11 04:20:07 #3 type.registry] 
+New type Room.Room
+
+[2017-12-11 04:20:07 #4 type.registry] 
+New type Room.Standard_Room
+
+[2017-12-11 04:20:07 #5 type] 
+Type Room.Room is not enhanced.
+
+[2017-12-11 04:20:07 #6 type.registry] 
+New type Pet.Pet
+
+[2017-12-11 04:20:07 #7 type] 
+Type Room.Standard_Room is not enhanced.
+
+[2017-12-11 04:20:07 #8 type] 
+Type Pet.Pet is not enhanced.
+
+[2017-12-11 04:20:07 #9 type.registry] 
+New type Customer.Customer
+
+[2017-12-11 04:20:07 #10 type] 
+Type Customer.Customer is not enhanced.
+
+[2017-12-11 04:20:07 #11 type.registry] 
+New type Room.Superior_Room
+
+[2017-12-11 04:20:07 #12 type] 
+Type Room.Superior_Room is not enhanced.
+
+[2017-12-11 04:20:07 #13 type.registry] 
+New type Room.Suite_Room
+
+[2017-12-11 04:20:07 #14 type] 
+Type Room.Suite_Room is not enhanced.
+
+[2017-12-11 04:20:07 #15 type.registry] 
+New type Room.Vip_Room
+
+[2017-12-11 04:20:07 #16 type] 
+Type Room.Vip_Room is not enhanced.
+

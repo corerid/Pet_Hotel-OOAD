@@ -1,0 +1,178 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-11-18 01:54:12 #1 store] 
+Database 'C:\Users\Corerid\Documents\GitHub\SanctuaryOOAD\PetHotel\$dist\db\Staff.odb' has been recovered (tr. 1-4)
+
+[2017-11-18 01:54:13 #2 store] 
+Database 'C:\Users\Corerid\Documents\GitHub\SanctuaryOOAD\PetHotel\$dist\db\Staff.odb' is opened by 13516@Corerid
+
+[2017-11-18 01:54:13 #3 store] 
+Configuration path: C:\Users\Corerid\Documents\GitHub\SanctuaryOOAD\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-11-18 01:54:28 #4 store] 
+Database 'C:\Users\Corerid\Documents\GitHub\SanctuaryOOAD\PetHotel\$dist\db\Staff.odb' is closed by 13516@Corerid
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-11-18 01:55:30 #1 store] 
+Database 'C:\Users\Corerid\Documents\GitHub\SanctuaryOOAD\PetHotel\$dist\db\Staff.odb' has been recovered (tr. 5-5)
+
+[2017-11-18 01:55:30 #2 store] 
+Database 'C:\Users\Corerid\Documents\GitHub\SanctuaryOOAD\PetHotel\$dist\db\Staff.odb' is opened by 15276@Corerid
+
+[2017-11-18 01:55:30 #3 store] 
+Configuration path: C:\Users\Corerid\Documents\GitHub\SanctuaryOOAD\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-11-18 01:55:38 #4 store] 
+Database 'C:\Users\Corerid\Documents\GitHub\SanctuaryOOAD\PetHotel\$dist\db\Staff.odb' is closed by 15276@Corerid
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-11-18 01:56:23 #1 store] 
+Database 'C:\Users\Corerid\Documents\GitHub\SanctuaryOOAD\PetHotel\$dist\db\Staff.odb' has been recovered (tr. 1-4)
+
+[2017-11-18 01:56:23 #2 store] 
+Database 'C:\Users\Corerid\Documents\GitHub\SanctuaryOOAD\PetHotel\$dist\db\Staff.odb' is opened by 9076@Corerid
+
+[2017-11-18 01:56:23 #3 store] 
+Configuration path: C:\Users\Corerid\Documents\GitHub\SanctuaryOOAD\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-11-18 01:56:32 #4 store] 
+Database 'C:\Users\Corerid\Documents\GitHub\SanctuaryOOAD\PetHotel\$dist\db\Staff.odb' is closed by 9076@Corerid
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-11-18 03:39:24 #1 explorer] 
+[ObjectDB 2.7.2_05] javax.persistence.PersistenceException
+Attempt to open a database file 'C:\Users\Corerid\Documents\GitHub\SanctuaryOOAD\PetHotel\$dist\db\Customer.odb' that is currently in use by another process (error 141)
+	at com.objectdb.Explorer$1.run(Explorer.java:57)
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+Caused by: com.objectdb.o.UserException: Attempt to open a database file 'C:\Users\Corerid\Documents\GitHub\SanctuaryOOAD\PetHotel\$dist\db\Customer.odb' that is currently in use by another process
+	at com.objectdb.o.MSG.d(MSG.java:62)
+	at com.objectdb.o.LFL.F(LFL.java:929)
+	at com.objectdb.o.LFL.C(LFL.java:886)
+	at com.objectdb.o.LFL.C(LFL.java:796)
+	at com.objectdb.o.DFL.<init>(DFL.java:240)
+	at com.objectdb.o.DocManager.<init>(DocManager.java:25)
+	at com.objectdb.o.MST.<init>(MST.java:125)
+	at com.objectdb.o.MST.aO(MST.java:107)
+	at com.objectdb.o.MSF.Vi(MSF.java:188)
+	at com.objectdb.o.OMF.an(OMF.java:782)
+	at com.objectdb.jpa.EMF.an(EMF.java:131)
+	at com.objectdb.o.OMF.am(OMF.java:693)
+	at com.objectdb.jpa.EMF.createEntityManager(EMF.java:150)
+	... 17 more
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-11-18 03:39:35 #1 store] 
+Database 'C:\Users\Corerid\Documents\GitHub\SanctuaryOOAD\PetHotel\$dist\db\Customer.odb' is opened by 10888@Corerid
+
+[2017-11-18 03:39:35 #2 store] 
+Configuration path: C:\Users\Corerid\Documents\GitHub\SanctuaryOOAD\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-11-18 03:39:50 #3 store] 
+Database 'C:\Users\Corerid\Documents\GitHub\SanctuaryOOAD\PetHotel\$dist\db\Customer.odb' is closed by 10888@Corerid
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-11-18 03:40:59 #1 store] 
+Database 'C:\Users\Corerid\Documents\GitHub\SanctuaryOOAD\PetHotel\$dist\db\Customer.odb' is opened by 9744@Corerid
+
+[2017-11-18 03:40:59 #2 store] 
+Configuration path: C:\Users\Corerid\Documents\GitHub\SanctuaryOOAD\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-11-18 03:44:46 #3 store] 
+Database 'C:\Users\Corerid\Documents\GitHub\SanctuaryOOAD\PetHotel\$dist\db\Customer.odb' is closed by 9744@Corerid
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-11-18 03:48:29 #1 store] 
+Database 'C:\Users\Corerid\Documents\GitHub\SanctuaryOOAD\PetHotel\$dist\db\Customer.odb' has been recovered (tr. 6-6)
+
+[2017-11-18 03:48:30 #2 store] 
+Database 'C:\Users\Corerid\Documents\GitHub\SanctuaryOOAD\PetHotel\$dist\db\Customer.odb' is opened by 11552@Corerid
+
+[2017-11-18 03:48:30 #3 store] 
+Configuration path: C:\Users\Corerid\Documents\GitHub\SanctuaryOOAD\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-11-18 03:48:48 #4 store] 
+Database 'C:\Users\Corerid\Documents\GitHub\SanctuaryOOAD\PetHotel\$dist\db\Customer.odb' is closed by 11552@Corerid
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-11-18 03:54:00 #1 store] 
+Database 'C:\Users\Corerid\Documents\GitHub\SanctuaryOOAD\PetHotel\$dist\db\Customer.odb' has been recovered (tr. 5-9)
+
+[2017-11-18 03:54:00 #2 store] 
+Database 'C:\Users\Corerid\Documents\GitHub\SanctuaryOOAD\PetHotel\$dist\db\Customer.odb' is opened by 10296@Corerid
+
+[2017-11-18 03:54:00 #3 store] 
+Configuration path: C:\Users\Corerid\Documents\GitHub\SanctuaryOOAD\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-11-18 03:54:15 #4 store] 
+Database 'C:\Users\Corerid\Documents\GitHub\SanctuaryOOAD\PetHotel\$dist\db\Customer.odb' is closed by 10296@Corerid
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-11-18 13:56:29 #1 store] 
+Database 'C:\Users\Corerid\Documents\GitHub\SanctuaryOOAD\PetHotel\$dist\db\Customer.odb' has been recovered (tr. 10-10)
+
+[2017-11-18 13:56:29 #2 store] 
+Database 'C:\Users\Corerid\Documents\GitHub\SanctuaryOOAD\PetHotel\$dist\db\Customer.odb' is opened by 15084@Corerid
+
+[2017-11-18 13:56:29 #3 store] 
+Configuration path: C:\Users\Corerid\Documents\GitHub\SanctuaryOOAD\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-11-18 13:56:48 #4 store] 
+Database 'C:\Users\Corerid\Documents\GitHub\SanctuaryOOAD\PetHotel\$dist\db\Customer.odb' is closed by 15084@Corerid
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-11-18 15:59:11 #1 store] 
+Database 'C:\Users\natht\Documents\GitHub\SanctuaryOOAD\PetHotel\$dist\db\Customer.odb' has been recovered (tr. 11-11)
+
+[2017-11-18 15:59:11 #2 store] 
+Database 'C:\Users\natht\Documents\GitHub\SanctuaryOOAD\PetHotel\$dist\db\Customer.odb' is opened by 13432@DESKTOP-CIA7TGO
+
+[2017-11-18 15:59:11 #3 store] 
+Configuration path: C:\Users\natht\Documents\GitHub\SanctuaryOOAD\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-11-18 16:00:46 #4 store] 
+Database 'C:\Users\natht\Documents\GitHub\SanctuaryOOAD\PetHotel\$dist\db\Customer.odb' is closed by 13432@DESKTOP-CIA7TGO
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-11-18 17:03:36 #1 store] 
+Database 'C:\Users\Corerid\Documents\GitHub\SanctuaryOOAD\PetHotel\$dist\db\Customer.odb' is opened by 9924@Corerid
+
+[2017-11-18 17:03:36 #2 store] 
+Configuration path: C:\Users\Corerid\Documents\GitHub\SanctuaryOOAD\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-11-18 17:03:45 #3 store] 
+Database 'C:\Users\Corerid\Documents\GitHub\SanctuaryOOAD\PetHotel\$dist\db\Customer.odb' is closed by 9924@Corerid
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-11-18 17:05:47 #1 store] 
+Database 'C:\Users\Corerid\Documents\GitHub\SanctuaryOOAD\PetHotel\$dist\db\Customer.odb' is opened by 8528@Corerid
+
+[2017-11-18 17:05:47 #2 store] 
+Configuration path: C:\Users\Corerid\Documents\GitHub\SanctuaryOOAD\PetHotel\objectdb-2.7.2_05\objectdb.conf
+
+[2017-11-18 17:05:52 #3 store] 
+Database 'C:\Users\Corerid\Documents\GitHub\SanctuaryOOAD\PetHotel\$dist\db\Customer.odb' is closed by 8528@Corerid
+

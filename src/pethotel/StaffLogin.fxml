@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXPasswordField?>
+<?import com.jfoenix.controls.JFXTextField?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<BorderPane prefHeight="600.0" prefWidth="960.0" style="-fx-background-color: #2D3442;" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="pethotel.StaffLoginController">
+   <center>
+      <VBox alignment="CENTER" prefHeight="200.0" prefWidth="100.0" BorderPane.alignment="CENTER">
+         <children>
+            <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0">
+               <children>
+                  <Label text="Staff Login" textFill="WHITE">
+                     <font>
+                        <Font name="Lato Bold Italic" size="64.0" />
+                     </font>
+                  </Label>
+               </children>
+            </HBox>
+            <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0">
+               <children>
+                  <ImageView fitHeight="150.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../images/animal-paw-print.png" />
+                     </image>
+                     <HBox.margin>
+                        <Insets top="20.0" />
+                     </HBox.margin>
+                  </ImageView>
+               </children>
+            </HBox>
+            <HBox alignment="CENTER" prefHeight="53.0" prefWidth="960.0">
+               <children>
+                  <Label fx:id="status" alignment="CENTER" prefHeight="25.0" prefWidth="330.0" textAlignment="CENTER" textFill="#d32020">
+                     <font>
+                        <Font size="30.0" />
+                     </font>
+                  </Label>
+               </children>
+            </HBox>
+            <HBox alignment="CENTER" prefHeight="33.0" prefWidth="960.0">
+               <children>
+                  <ImageView fitHeight="40.0" fitWidth="40.0" opacity="0.8" pickOnBounds="true" preserveRatio="true">
+                     <HBox.margin>
+                        <Insets right="10.0" />
+                     </HBox.margin>
+                     <image>
+                        <Image url="@../images/ic_account_circle_white_24dp_2x.png" />
+                     </image>
+                  </ImageView>
+                  <JFXTextField fx:id="staffUsername" focusColor="WHITE" labelFloat="true" prefHeight="80.0" prefWidth="254.0" promptText="ID" style="-fx-prompt-text-fill: #000000; -fx-text-fill: #FFFFFF;" unFocusColor="#a0a2ab">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                     <HBox.margin>
+                        <Insets right="20.0" />
+                     </HBox.margin>
+                  </JFXTextField>
+               </children>
+            </HBox>
+            <HBox alignment="CENTER" prefHeight="42.0" prefWidth="960.0">
+               <children>
+                  <ImageView fitHeight="40.0" fitWidth="40.0" opacity="0.8" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../images/ic_lock_white_24dp_2x.png" />
+                     </image>
+                     <HBox.margin>
+                        <Insets right="10.0" top="20.0" />
+                     </HBox.margin>
+                  </ImageView>
+                  <JFXPasswordField fx:id="staffPassword" focusColor="WHITE" labelFloat="true" prefHeight="44.0" prefWidth="253.0" promptText="Password" style="-fx-prompt-text-fill: #000000; -fx-text-fill: #FFFFFF;" unFocusColor="#a0a2ab">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                     <padding>
+                        <Insets top="30.0" />
+                     </padding>
+                     <HBox.margin>
+                        <Insets right="20.0" />
+                     </HBox.margin>
+                  </JFXPasswordField>
+               </children>
+            </HBox>
+            <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0">
+               <children>
+                  <JFXButton onAction="#makeLogin" prefHeight="0.0" prefWidth="152.0" style="-fx-background-color: #151928; -fx-background-radius: 6;" text="Login" textFill="WHITE">
+                     <font>
+                        <Font size="20.0" />
+                     </font>
+                  </JFXButton>
+               </children>
+            </HBox>
+         </children>
+      </VBox>
+   </center>
+</BorderPane>

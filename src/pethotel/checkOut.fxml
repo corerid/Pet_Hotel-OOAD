@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXTextField?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<BorderPane prefHeight="600.0" prefWidth="960.0" style="-fx-background-color: #F5F5F5;" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="pethotel.CheckOutController">
+   <left>
+      <VBox prefHeight="600.0" prefWidth="115.0" style="-fx-background-color: #272e3a;" BorderPane.alignment="CENTER">
+         <children>
+            <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0">
+               <children>
+                  <VBox fx:id="manageCustomer2" alignment="CENTER" onMouseClicked="#changeToManageCustomer" prefHeight="114.0" prefWidth="124.0" styleClass="root" stylesheets="@../images/borderButton.css">
+                     <children>
+                        <ImageView fitHeight="44.0" fitWidth="62.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../images/ic_account_circle_white_24dp_2x.png" />
+                           </image>
+                        </ImageView>
+                        <JFXButton fx:id="manageCustomer" onAction="#changeToManageCustomer" prefHeight="14.0" prefWidth="115.0" ripplerFill="#272e3a" style="-fx-background-color: #272e3a;" text="Manage Customer" textFill="WHITE">
+                           <font>
+                              <Font name="Lato Regular" size="10.0" />
+                           </font>
+                        </JFXButton>
+                     </children>
+                  </VBox>
+               </children>
+            </HBox>
+            <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0">
+               <children>
+                  <VBox alignment="CENTER" prefHeight="110.0" prefWidth="162.0" styleClass="root" stylesheets="@../images/borderButton.css">
+                     <children>
+                        <ImageView fitHeight="44.0" fitWidth="65.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../images/ic_book_white_24dp_2x.png" />
+                           </image>
+                        </ImageView>
+                        <JFXButton fx:id="reserveRoom" onAction="#changeToReserveRoom" prefHeight="22.0" prefWidth="115.0" style="-fx-background-color: #272e3a;" text="Reserve Room" textFill="WHITE">
+                           <font>
+                              <Font name="Lato Regular" size="10.0" />
+                           </font>
+                        </JFXButton>
+                     </children>
+                  </VBox>
+               </children>
+            </HBox>
+            <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0">
+               <children>
+                  <VBox alignment="CENTER" prefHeight="109.0" prefWidth="175.0" styleClass="root" stylesheets="@../images/borderButton.css">
+                     <children>
+                        <ImageView fitHeight="40.0" fitWidth="46.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../images/ic_check_circle_white_24dp_2x.png" />
+                           </image>
+                        </ImageView>
+                        <JFXButton fx:id="checkOut_m" onAction="#changeToCheckOut" prefHeight="27.0" prefWidth="115.0" style="-fx-background-color: #272e3a;" text="Check Out" textFill="WHITE">
+                           <font>
+                              <Font name="Lato Regular" size="10.0" />
+                           </font>
+                        </JFXButton>
+                     </children>
+                  </VBox>
+               </children>
+            </HBox>
+            <HBox fillHeight="false" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="301.0" prefWidth="115.0">
+               <children>
+                  <VBox alignment="CENTER" fillWidth="false" minHeight="-Infinity" minWidth="-Infinity" prefHeight="302.0" prefWidth="115.0">
+                     <children>
+                        <JFXButton fx:id="logOut" alignment="CENTER" contentDisplay="CENTER" minHeight="-Infinity" minWidth="-Infinity" onAction="#logOut" prefHeight="32.0" prefWidth="100.0" style="-fx-background-color: #151928; -fx-background-radius: 6;" text="Log out" textFill="#a0a2ab">
+                           <font>
+                              <Font name="Lato Regular" size="15.0" />
+                           </font>
+                        </JFXButton>
+                     </children>
+                  </VBox>
+               </children>
+            </HBox>
+         </children>
+      </VBox>
+   </left>
+   <center>
+      <VBox prefHeight="200.0" prefWidth="100.0" BorderPane.alignment="CENTER">
+         <children>
+            <HBox alignment="CENTER" prefHeight="58.0" prefWidth="845.0" style="-fx-background-color: #3c3c3c;">
+               <children>
+                  <JFXButton alignment="CENTER" contentDisplay="CENTER" prefHeight="40.0" prefWidth="806.0" style="-fx-background-color: #FFFFFF; -fx-background-radius: 10;" text="Check Out" textAlignment="CENTER" textFill="#3c3c3c">
+                     <font>
+                        <Font name="Consolas" size="20.0" />
+                     </font>
+                  </JFXButton>
+               </children></HBox>
+            <HBox prefHeight="545.0" prefWidth="845.0">
+               <children>
+                  <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="541.0" prefWidth="842.0">
+                     <children>
+                        <Label layoutX="27.0" layoutY="119.0" text="Room No :" textFill="#750202">
+                           <font>
+                              <Font name="Consolas" size="22.0" />
+                           </font>
+                        </Label>
+                        <Label layoutX="27.0" layoutY="181.0" text="Name :" textFill="#750202">
+                           <font>
+                              <Font name="Consolas" size="22.0" />
+                           </font>
+                        </Label>
+                        <JFXTextField fx:id="roomNoSearch" layoutX="146.0" layoutY="104.0" onKeyPressed="#searchRoomNo" prefHeight="56.0" prefWidth="173.0">
+                           <font>
+                              <Font name="Consolas" size="22.0" />
+                           </font>
+                        </JFXTextField>
+                        <JFXTextField fx:id="nameSearch" layoutX="114.0" layoutY="166.0" onKeyPressed="#searchName" prefHeight="56.0" prefWidth="206.0">
+                           <font>
+                              <Font name="Consolas" size="22.0" />
+                           </font>
+                        </JFXTextField>
+                        <ImageView fitHeight="58.0" fitWidth="64.0" layoutX="27.0" layoutY="33.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../images/search-icon.png" />
+                           </image>
+                        </ImageView>
+                        <Label layoutX="115.0" layoutY="45.0" text="Search">
+                           <font>
+                              <Font name="Agency FB" size="28.0" />
+                           </font>
+                        </Label>
+                        <TableView fx:id="table" layoutX="339.0" layoutY="45.0" onMouseClicked="#checkOut" prefHeight="374.0" prefWidth="473.0">
+                           <columns>
+                              <TableColumn fx:id="roomNumber" prefWidth="41.0" text="Room" />
+                              <TableColumn fx:id="name" prefWidth="98.0" text="Name" />
+                              <TableColumn fx:id="petName" prefWidth="92.0" text="Pet" />
+                              <TableColumn fx:id="checkIn" prefWidth="87.0" text="Check In" />
+                              <TableColumn fx:id="checkOut" prefWidth="89.0" text="Check Out" />
+                              <TableColumn fx:id="price" prefWidth="65.0" text="Price" />
+                           </columns>
+                        </TableView>
+                        <Label layoutX="506.0" layoutY="425.0" text="Select Room by double click the table">
+                           <font>
+                              <Font name="Consolas" size="15.0" />
+                           </font>
+                        </Label>
+                     </children>
+                  </AnchorPane>
+               </children>
+            </HBox>
+         </children>
+      </VBox>
+   </center>
+</BorderPane>

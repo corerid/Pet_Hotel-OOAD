@@ -1,0 +1,7 @@
+.text-field {
+    -fx-text-fill: #a0a2ab;
+}
+
+.text-field:focused {
+    -fx-text-fill: #bebebf;
+}

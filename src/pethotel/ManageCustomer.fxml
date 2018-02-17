@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<BorderPane prefHeight="600.0" prefWidth="960.0" style="-fx-background-color: #F5F5F5;" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="pethotel.ManageCustomerController">
+   <left>
+      <VBox prefHeight="600.0" prefWidth="115.0" style="-fx-background-color: #272e3a;" BorderPane.alignment="CENTER">
+         <children>
+            <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0">
+               <children>
+                  <VBox alignment="CENTER" prefHeight="65.0" prefWidth="115.0" styleClass="root" stylesheets="@../images/borderButton.css">
+                     <children>
+                        <ImageView fitHeight="44.0" fitWidth="62.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../images/customer.png" />
+                           </image>
+                        </ImageView>
+                        <JFXButton onAction="#changToShowCustomerList" prefHeight="14.0" prefWidth="115.0" ripplerFill="#272e3a" style="-fx-background-color: #272e3a;" text="Customer List" textFill="WHITE">
+                           <font>
+                              <Font name="Lato Regular" size="10.0" />
+                           </font>
+                        </JFXButton>
+                     </children>
+                  </VBox>
+               </children>
+            </HBox>
+            <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0">
+               <children>
+                  <VBox alignment="CENTER" prefHeight="110.0" prefWidth="162.0" styleClass="root" stylesheets="@../images/borderButton.css">
+                     <children>
+                        <ImageView fitHeight="44.0" fitWidth="65.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../images/admin.png" />
+                           </image>
+                        </ImageView>
+                        <JFXButton onAction="#changeToAddCustomer" prefHeight="22.0" prefWidth="115.0" style="-fx-background-color: #272e3a;" text="Add Customer" textFill="WHITE">
+                           <font>
+                              <Font name="Lato Regular" size="10.0" />
+                           </font>
+                        </JFXButton>
+                     </children>
+                  </VBox>
+               </children>
+            </HBox>
+            <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0">
+               <children>
+                  <VBox alignment="CENTER" prefHeight="178.0" prefWidth="115.0" styleClass="root" stylesheets="@../images/borderButton.css">
+                     <children>
+                        <ImageView fitHeight="40.0" fitWidth="46.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../images/Creative-Tail-Animal-cat.svg.png" />
+                           </image>
+                        </ImageView>
+                        <JFXButton onAction="#changeToAddPet" prefHeight="27.0" prefWidth="115.0" style="-fx-background-color: #272e3a;" text="Add Pet" textFill="WHITE">
+                           <font>
+                              <Font name="Lato Regular" size="10.0" />
+                           </font>
+                        </JFXButton>
+                     </children>
+                  </VBox>
+               </children>
+            </HBox>
+            <HBox fillHeight="false" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="301.0" prefWidth="115.0">
+               <children>
+                  <VBox alignment="CENTER" fillWidth="false" minHeight="-Infinity" minWidth="-Infinity" prefHeight="302.0" prefWidth="115.0">
+                     <children>
+                        <JFXButton alignment="CENTER" contentDisplay="CENTER" minHeight="-Infinity" minWidth="-Infinity" onAction="#back" prefHeight="32.0" prefWidth="100.0" style="-fx-background-color: #151928; -fx-background-radius: 6;" text="Back" textFill="#a0a2ab">
+                           <font>
+                              <Font name="Lato Regular" size="15.0" />
+                           </font>
+                        </JFXButton>
+                     </children>
+                  </VBox>
+               </children>
+            </HBox>
+         </children>
+      </VBox>
+   </left>
+   <center>
+      <VBox prefHeight="200.0" prefWidth="100.0" BorderPane.alignment="CENTER">
+         <children>
+            <HBox alignment="CENTER" prefHeight="58.0" prefWidth="845.0" style="-fx-background-color: #3c3c3c;">
+               <children>
+                  <JFXButton alignment="CENTER" contentDisplay="CENTER" prefHeight="40.0" prefWidth="806.0" style="-fx-background-color: #FFFFFF; -fx-background-radius: 10;" text="Manage Customer" textAlignment="CENTER" textFill="#3c3c3c">
+                     <font>
+                        <Font name="Consolas" size="20.0" />
+                     </font>
+                  </JFXButton>
+               </children>
+            </HBox>
+            <HBox prefHeight="538.0" prefWidth="845.0">
+               <children>
+                  <AnchorPane prefHeight="538.0" prefWidth="844.0">
+                     <children>
+                        <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="85.0" layoutY="91.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../images/customer.png" />
+                           </image>
+                        </ImageView>
+                        <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="360.0" layoutY="83.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../images/admin.png" />
+                           </image>
+                        </ImageView>
+                        <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="615.0" layoutY="83.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../images/Creative-Tail-Animal-cat.svg.png" />
+                           </image>
+                        </ImageView>
+                        <JFXButton layoutX="66.0" layoutY="269.0" onAction="#changToShowCustomerList" style="-fx-background-color: #3871C8;" text="Customer List" textFill="WHITE">
+                           <font>
+                              <Font name="Consolas" size="22.0" />
+                           </font>
+                        </JFXButton>
+                        <JFXButton layoutX="347.0" layoutY="269.0" onAction="#changeToAddCustomer" style="-fx-background-color: #3871C8;" text="Add Customer" textFill="WHITE">
+                           <font>
+                              <Font name="Consolas" size="22.0" />
+                           </font>
+                        </JFXButton>
+                        <JFXButton layoutX="633.0" layoutY="269.0" onAction="#changeToAddPet" style="-fx-background-color: #3871C8;" text="Add Pet" textFill="WHITE">
+                           <font>
+                              <Font name="Consolas" size="22.0" />
+                           </font>
+                        </JFXButton>
+                     </children>
+                  </AnchorPane>
+               </children>
+            </HBox>
+         </children>
+      </VBox>
+   </center>
+</BorderPane>
